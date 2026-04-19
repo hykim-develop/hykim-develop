@@ -48,15 +48,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id\&show_icons=true\&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hykim-develop\&show_icons=true\&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hykim-develop\&layout=compact)
 
 ---
 
 ## 🔥 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-id\&theme=minimal)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hykim-develop\&theme=minimal)
 
 ---
 
