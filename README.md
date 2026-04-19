@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Hayoung Kim
 
-🚀 **Data Analyst | Aspiring Data Engineer**
+🚀 **Data Enginner**
 데이터로 문제를 해결하고, 확장 가능한 데이터 시스템을 만드는 것을 목표로 합니다.
 
 ---
@@ -8,8 +8,8 @@
 ## 🧑‍💻 About Me
 
 * 📊 데이터 분석 & 데이터 엔지니어링 학습 중
-* 🏫 MultiCampus 데이터 분석 (AI활용) 과정 수료
 * 🏫 MetaCode 데이터 엔지니어 과정 수료
+* 🏫 MultiCampus 데이터 분석 (AI활용) 과정 수료
 * 🔍 Python, SQL 기반 데이터 처리 및 분석 경험
 * 📈 데이터 파이프라인 및 ETL 설계에 관심
 
