@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hayoung Kim
 
-🚀 **Data Enginner**
+🚀 **Data Enginner | **
 데이터로 문제를 해결하고, 확장 가능한 데이터 시스템을 만드는 것을 목표로 합니다.
 
 ---
