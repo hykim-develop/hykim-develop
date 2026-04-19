@@ -11,6 +11,8 @@
 * 🏫 MetaCode 데이터 엔지니어 과정 수료
 * 🏫 MultiCampus 데이터 분석 (AI활용) 과정 수료
 * 🔍 Python, SQL 기반 데이터 처리 및 분석 경험
+* 🔍 LG 화학 Document Understanding 1년
+* 🔍 LG 에너지솔루션 업무자동화, Project Leading 3년
 * 📈 데이터 파이프라인 및 ETL 설계에 관심
 
 ---
