@@ -1,19 +1,25 @@
-# 👋 Hi, I'm Hayoung Kim
+# 🤖 → 📊 → 🧠
+### Automation · Data · AI
+## 👋 Hi, I'm Hayoung Kim
 
-🚀 **Data Enginner**
-| 데이터로 문제를 해결하고, 확장 가능한 데이터 시스템을 만드는 것을 목표로 합니다.
+🚀 Data Engineer
+
+업무 자동화 개발자에서 AI 개발자로, 데이터를 공부하며 건너가는 중입니다.
+
+업무 자동화 경험을 바탕으로, 데이터 엔지니어링을 익히며 AI 활용까지 영역을 넓혀가고 있습니다.
 
 ---
 
 ## 🧑‍💻 About Me
 
+* 🚀 업무 자동화에 데이터 엔지니어링 기술 접목 중
 * 📊 데이터 분석 & 데이터 엔지니어링 학습 중
-* 🏫 MetaCode 데이터 엔지니어 과정 수료
-* 🏫 MultiCampus 데이터 분석 (AI활용) 과정 수료
-* 🔍 Python, SQL 기반 데이터 처리 및 분석 경험
-* 🔍 LG 화학 Document Understanding 1년
-* 🔍 LG 에너지솔루션 업무자동화, Project Leading 3년
-* 📈 데이터 파이프라인 및 ETL 설계에 관심
+* 🎓 MetaCode 데이터 엔지니어 과정 진행중 (~26.09.30)
+* 🎓 MultiCampus 데이터 분석 (AI활용) 과정 진행중 (~26.08.30)
+* 🏢 LG 에너지솔루션 — 업무 자동화 & Project Leading 3년
+* 🏢 LG 화학 — 업무 자동화 & Document Understanding 1년
+* 🐍 Python, SQL 기반 데이터 처리 및 분석 경험
+* 🔧 데이터 파이프라인 및 ETL 설계에 관심
 
 ---
 
