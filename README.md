@@ -1,4 +1,3 @@
-### Automation · Data · AI
 ## 👋 Hi, I'm Hayoung Kim
 
 🚀 Data Engineer
