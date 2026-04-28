@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hayoung Kim
 
-🚀 Data Engineer
+🚀 Automation · Data · AI
 
 업무 자동화 개발자에서 AI 개발자로, 데이터를 공부하며 건너가는 중입니다.
 
