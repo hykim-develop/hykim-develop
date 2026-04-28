@@ -20,17 +20,24 @@
 ## 🛠 Tech Stack
 
 ### 💡 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### ⚙️ Tools & Technologies
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+### 🤖 RPA
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![UiPath Document Understanding](https://img.shields.io/badge/UiPath_Document_Understanding-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![CheckMate](https://img.shields.io/badge/CheckMate-4A4A4A?style=for-the-badge&logoColor=white)
+![Worktronics](https://img.shields.io/badge/Worktronics-D4537E?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -65,6 +72,7 @@
 ## 🎯 Goal
 
 * 데이터 분석 → 데이터 엔지니어링까지 확장
+* 다양한 분야에 데이터 엔지니어링 접목
 * 실제 서비스 환경에서 데이터 흐름을 설계할 수 있는 개발자
 
 ---
